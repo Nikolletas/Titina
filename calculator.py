@@ -1,6 +1,6 @@
 # Define functions for basic arithmetic operations
-def add(x, y, z):
-    return x + y + z
+def add(x, y):
+    return x + y
 
 def subtract(x, y):
     return x - y
